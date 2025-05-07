@@ -9,7 +9,7 @@ Unity is a cross-platform, real-time 3D development platform used to create 2D 
 
 [Components](Unity/Components.md)
 
-[Moving into a Scene](Unity/Moving%20into%20a%20scene.md)
+[Moving into a Scene](Unity/Moving%20into%20a%20Scene.md)
 
 [Scripting](Unity/Scripting.md)
 
