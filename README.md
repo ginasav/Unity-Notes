@@ -4,8 +4,10 @@ Unity is a cross-platform, real-time 3D development platform used to create 2D 
 
 ---
 <h2> Essential Concepts </h2>
-[GameObject] (Unity-Notes/GameObject.md)
+
+[[GameObjects]]
 [[Components]]
 [[Moving into a Scene]]
 [[Scripting]]
 [[Prefabricated GameObjects]]
+
